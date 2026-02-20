@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "天空カフェテリア",
+  "base_artist": "Petit Rabbit's",
+  "createdAt": "2026-02-20T05:43:37.988316Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天空カフェテリア",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/01_天空カフェテリア_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "天空カフェテリア ~チノVer.~",
+      "artist": "チノ(水瀬いのり",
+      "has_synced": true,
+      "path": "select/02_天空カフェテリア_~チノVer.~_チノ(水瀬いのり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "天空カフェテリア ~リゼVer.~",
+      "artist": "リゼ(種田梨沙)",
+      "has_synced": false,
+      "path": "select/03_天空カフェテリア_~リゼVer.~_リゼ(種田梨沙).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "天空カフェテリア - tenkucafeteria",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/04_天空カフェテリア_-_tenkucafeteria_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "天空カフェテリア",
+      "artist": "Petit Rabbit's(ココア(佐倉綾音)、チノ(水瀬いのり)、リゼ(種田梨沙)、千夜(佐藤聡美)、シャロ(内田真礼))",
+      "has_synced": true,
+      "path": "select/05_天空カフェテリア_Petit_Rabbit's(ココア(佐倉綾音)、チノ(水瀬いのり)、リゼ(種田梨沙)、千夜(佐藤聡美)、シャロ(内田真礼)).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "天空カフェテリア 〜千夜Ver.〜",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/06_天空カフェテリア_〜千夜Ver.〜_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "天空カフェテリア 〜チノVer.〜",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/07_天空カフェテリア_〜チノVer.〜_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "天空カフェテリア 〜リゼVer.〜",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/08_天空カフェテリア_〜リゼVer.〜_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "天空カフェテリア 〜シャロVer.〜",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/09_天空カフェテリア_〜シャロVer.〜_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "天空カフェテリア 〜Re arranged〜 (Instrumental)",
+      "artist": "Petit Rabbit’s",
+      "has_synced": true,
+      "path": "select/10_天空カフェテリア_〜Re_arranged〜_(Instrumental)_Petit_Rabbit’s.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "天空カフェテリア ～Re Arranged～",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/11_天空カフェテリア_~Re_Arranged~_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "天空カフェテリア 〜シャロVer.〜",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/12_天空カフェテリア_〜シャロVer.〜_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天空カフェテリア",
+      "artist": "Petit Rabbit's",
+      "has_synced": false,
+      "path": "select/pl_01_天空カフェテリア_Petit_Rabbit's.txt"
+    }
+  ]
+}
